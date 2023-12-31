@@ -1,5 +1,5 @@
-Update:  
-1.Add hex recive;  
-2.Add send and receive timestamps;  
-3.Added protocol transmission(XModem protocol is supported);  
-4.UI tweaks； 
+更新：
+1.增加十六进制接收;  
+2.增加发送接收时间戳;  
+3.增加串口xmodem协议;  
+4.UI调整； 
